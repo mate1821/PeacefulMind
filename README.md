@@ -1,3 +1,2 @@
-# flutter_application_semillero
+# Applicacion de control del animo con funcionalidades basicas 
 
-A new Flutter project.
