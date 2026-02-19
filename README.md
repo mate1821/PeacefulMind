@@ -1,2 +1,3 @@
-# PeacefulMind
-App con funcionalidades  basicas de gestion emocional 
+# flutter_application_semillero
+
+A new Flutter project.
