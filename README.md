@@ -1,2 +1,4 @@
-# Applicacion de control del animo con funcionalidades basicas 
+#PeacfulMind
+Applicacion de control del animo con funcionalidades basicas 
+
 
